@@ -1,1 +1,2 @@
-Just testing stuff out
+Just testing stuff out, mostly figuring out how git works
+testing again, seeing how changes are made in git
